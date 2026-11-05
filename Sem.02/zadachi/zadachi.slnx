@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zadachi/zadachi.vcxproj" Id="8c78b07c-367f-43ee-99a1-134d13d8531a" />
+</Solution>
